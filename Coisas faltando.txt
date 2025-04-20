@@ -1,0 +1,17 @@
+Cenario 1 - 2
+Corrigir esta com 2 combos, mas as vezes da o som errado e esta adando
+Cenario 3
+Boss
+Terminar ultima aula do curso
+Colocar vídeos de Entrada já feitos
+Inimigo 3 - 4
+Refazer Inimigo 2
+Arrumar som de dano dos personagens
+Colocar som por comida no jogo
+Colocar caixa de dialogo na 2 fase
+Cutscene
+Personagens de fundo
+Corrigir problema de ao entrar na fase na unity tocar a da primeira
+--------------------------------
+Fase extra Musical -- DJ Flavinho
++ Personagens Selecionáveis
